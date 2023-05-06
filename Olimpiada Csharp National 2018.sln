@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olimpiada Csharp National 2018", "Olimpiada Csharp National 2018.csproj", "{9BEB625D-6101-468E-B886-ED32939AC221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEB625D-6101-468E-B886-ED32939AC221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEB625D-6101-468E-B886-ED32939AC221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEB625D-6101-468E-B886-ED32939AC221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEB625D-6101-468E-B886-ED32939AC221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496ED55D-1242-42EA-81DC-1CC7206BB016}
+	EndGlobalSection
+EndGlobal

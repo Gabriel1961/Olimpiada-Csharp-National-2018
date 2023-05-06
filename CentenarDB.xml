@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<DbModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Utilizatori>
+    <Utilizator>
+      <IdUtilizator>1</IdUtilizator>
+      <Nume>Popescu Ion</Nume>
+      <Parola>popIon</Parola>
+      <Email>popescu@gmail.com</Email>
+    </Utilizator>
+    <Utilizator>
+      <IdUtilizator>2</IdUtilizator>
+      <Nume>Zaharia Anca</Nume>
+      <Parola>anca</Parola>
+      <Email>anca@gmail.com</Email>
+    </Utilizator>
+    <Utilizator>
+      <IdUtilizator>3</IdUtilizator>
+      <Nume>Mihnea Manuela</Nume>
+      <Parola>mihnea</Parola>
+      <Email>mihnea@yahoo.com</Email>
+    </Utilizator>
+    <Utilizator>
+      <IdUtilizator>4</IdUtilizator>
+      <Nume>Ionescu Alexandru</Nume>
+      <Parola>alex</Parola>
+      <Email>ionescu@gmail.com</Email>
+    </Utilizator>
+    <Utilizator>
+      <IdUtilizator>5</IdUtilizator>
+      <Nume>Florescu Marius</Nume>
+      <Parola>marius</Parola>
+      <Email>florescu@gmail.com</Email>
+    </Utilizator>
+    <Utilizator>
+      <IdUtilizator>6</IdUtilizator>
+      <Nume>Dumbrava Alina</Nume>
+      <Parola>parola</Parola>
+      <Email>alina@yahoo.com</Email>
+    </Utilizator>
+  </Utilizatori>
+  <Lectii>
+    <Lectie>
+      <IdLectie>7</IdLectie>
+      <IdUtilizator>1</IdUtilizator>
+      <TitluLectie>Moldova - Scurt istoric</TitluLectie>
+      <Regiune>Moldova</Regiune>
+      <DataCreare>2018-05-15T20:00:00</DataCreare>
+      <NumeImagine>lectia1</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>7</IdLectie>
+      <IdUtilizator>2</IdUtilizator>
+      <TitluLectie>Bucovina</TitluLectie>
+      <Regiune>Bucovina</Regiune>
+      <DataCreare>2018-05-17T20:00:00</DataCreare>
+      <NumeImagine>lectia2</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>7</IdLectie>
+      <IdUtilizator>1</IdUtilizator>
+      <TitluLectie>Bucovina</TitluLectie>
+      <Regiune>Bucovina</Regiune>
+      <DataCreare>2018-05-17T12:00:00</DataCreare>
+      <NumeImagine>lectia3</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>3</IdLectie>
+      <IdUtilizator>6</IdUtilizator>
+      <TitluLectie>cacamaca</TitluLectie>
+      <Regiune>imi plac prn</Regiune>
+      <DataCreare>2023-05-06T20:02:08.4531115+03:00</DataCreare>
+      <NumeImagine>cacamaca</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>4</IdLectie>
+      <IdUtilizator>6</IdUtilizator>
+      <TitluLectie>ce parnaie e mata</TitluLectie>
+      <Regiune>imi plac prn</Regiune>
+      <DataCreare>2023-05-06T20:03:03.7370968+03:00</DataCreare>
+      <NumeImagine>ce parnaie e mata</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>5</IdLectie>
+      <IdUtilizator>6</IdUtilizator>
+      <TitluLectie>aca</TitluLectie>
+      <Regiune />
+      <DataCreare>2023-05-06T20:09:15.4475441+03:00</DataCreare>
+      <NumeImagine>aca</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>6</IdLectie>
+      <IdUtilizator>6</IdUtilizator>
+      <TitluLectie>alina@yahoo.com</TitluLectie>
+      <Regiune />
+      <DataCreare>2023-05-06T20:10:06.3165535+03:00</DataCreare>
+      <NumeImagine>alina@yahoo.com</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>7</IdLectie>
+      <IdUtilizator>6</IdUtilizator>
+      <TitluLectie>caca</TitluLectie>
+      <Regiune />
+      <DataCreare>2023-05-06T20:13:10.4886781+03:00</DataCreare>
+      <NumeImagine>caca</NumeImagine>
+    </Lectie>
+    <Lectie>
+      <IdLectie>8</IdLectie>
+      <IdUtilizator>6</IdUtilizator>
+      <TitluLectie>me novia</TitluLectie>
+      <Regiune>you give me fiver</Regiune>
+      <DataCreare>2023-05-06T22:47:17.6324001+03:00</DataCreare>
+      <NumeImagine>me novia</NumeImagine>
+    </Lectie>
+  </Lectii>
+</DbModel>
